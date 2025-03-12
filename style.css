@@ -1,0 +1,70 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    margin: 0px;
+}
+
+#hero {
+    width: 488px;
+    margin: 0px auto 32px;
+
+}
+
+#hero img {
+    margin-bottom: 32px;
+}
+
+h1 {
+    font-family: "Dosis", sans-serif;
+    font-size: 49px;
+    line-height: 36px;
+    font-weight: normal;
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+p {
+    color: #828282;
+    text-align: center;
+    font-size: 15px;
+    line-height: 25px;
+    max-width: 626px;
+    margin: 0px auto 15px;
+    right: 199px;
+    left: 199px;
+}
+
+
+strong{
+    font-weight: bolder;
+    color: #3F3D56;
+}
+
+#footer {
+    margin-bottom: 40px;
+    color: #3F3D56;
+}
+
+#footer a + a {
+    margin-left: 42px;
+}
+
+
+.line {         /*Linha que fica em cima dos dados*/
+    width: 450px;
+    height: 0px;
+    margin: 64px auto 16px;
+    border: 1px solid #ECEFF2;
+}
+
+#rodape {
+    position: flex;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    
+}
